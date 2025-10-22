@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariam</h1>
-<h3 align="center">An aspiring software engineer from Cairo, Egypt. I'm</h3>
+<h3 align="center">An aspiring software engineer from Cairo, Egypt. I'm a 2nd Year Comp Sci student at the University of Oxford in England.</h3>
 
 - 🔭 I’m currently working on **a 2D platformer game & AI recommender algorithms**
 
